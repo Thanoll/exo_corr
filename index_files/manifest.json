@@ -1,7 +1,7 @@
 {
-    "name": "Les News du Web",
-    "short_name": "News Web",
-    "description": "Actualités et nouvelles du web",
+    "name": "Aquarooms",
+    "short_name": "Aquarooms",
+    "description": "Aquarooms",
     "start_url": "/index.html",
     "display": "standalone",
     "display_override": ["fullscreen", "minimal-ui"],
