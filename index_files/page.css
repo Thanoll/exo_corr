@@ -15,6 +15,7 @@
 .remarque 							{ background: #ce1214; color: #fff; font-size: 15px; line-height: 22px; padding: 8px 25px 10px 25px; border-radius: 5px; display: inline-block;}
 .remarque.remarque_vert	 			{ background: #5cb118;}
 
+
 @media (min-width:1201px) { 
 .page_content p a:hover, 
 .page_content .ul_list a:hover		{ color:#111; border-color:#111;}
